@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Yuuka - Girls' Carnival",
+  "base_artist": "Imam Al Ghozali",
+  "createdAt": "2025-12-01T12:11:25.163425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Through The Night (feat. Yuuka Bear)",
+      "artist": "Alohaii",
+      "has_synced": true,
+      "path": "select/01_Through_The_Night_(feat._Yuuka_Bear)_Alohaii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FictionJunction YUUKA/nowhere",
+      "artist": "Yuki Kajiura",
+      "has_synced": false,
+      "path": "select/02_FictionJunction_YUUKA_nowhere_Yuki_Kajiura.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Through The Night (feat. Yuuka Bear)",
+      "artist": "Alohaii / Lone Alpha",
+      "has_synced": true,
+      "path": "select/03_Through_The_Night_(feat._Yuuka_Bear)_Alohaii___Lone_Alpha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yuuka - Girls' Carnival",
+      "artist": "Imam Al Ghozali",
+      "has_synced": false,
+      "path": "select/04_Yuuka_-_Girls'_Carnival_Imam_Al_Ghozali.txt"
+    }
+  ]
+}
